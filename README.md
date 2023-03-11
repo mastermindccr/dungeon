@@ -1,0 +1,1 @@
+To play the game, please open bin/debug/dungeon.exe and <strong>DO NOT</strong> modify or move any files.
